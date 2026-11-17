@@ -1,0 +1,8 @@
+{
+  "name": "rp-city-server",
+  "version": "1.0.0",
+  "description": "Servidor online do RP City",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
